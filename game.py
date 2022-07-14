@@ -23,7 +23,7 @@ def main():
 
 def show_header():
     print("---------------------------")
-    print("   Rock Paper Scissors")
+    print("   Rock Paper Scissors - RPS")
     print("---------------------------")
 
 
